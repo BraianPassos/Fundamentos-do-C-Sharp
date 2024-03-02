@@ -1,0 +1,13 @@
+using System;
+class CaluloDeArea
+{
+  static void Main ()
+  {
+	double area, raio, n = 3.14159;
+
+	  raio = double.Parse (Console.ReadLine ());
+	  area = n * (raio * raio);
+
+	  Console.WriteLine ("A={0:F4}", area);
+  }
+}

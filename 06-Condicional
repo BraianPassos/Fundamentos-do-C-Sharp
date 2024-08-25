@@ -1,0 +1,27 @@
+using System;
+
+namespace Teste
+{
+       class Condicional
+       {
+            static void Main(string[] args)
+            {
+                int dinheiro;
+
+                Console.WriteLine("Quanto deseja depositar?");
+                dinheiro = int.Parse(Console.ReadLine());
+
+                if (dinheiro > 0)
+                    {
+                        Console.WriteLine("Depósito realizado com sucesso!!");
+                        Console.WriteLine("Saldo em conta: " + dinheiro);
+                    }
+                else
+                    {
+                        Console.WriteLine("Crédito aprovado");
+                        Console.WriteLine("Saldo em conta: " + dinheiro);
+                    }
+            }
+       }
+}
+

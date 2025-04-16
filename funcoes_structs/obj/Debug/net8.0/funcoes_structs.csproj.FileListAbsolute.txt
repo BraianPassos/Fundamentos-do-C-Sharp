@@ -1,0 +1,14 @@
+C:\Users\consultorio 05\Desktop\CursoDotNet\BaltaIO\funcoes_structs\obj\Debug\net8.0\funcoes_structs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\consultorio 05\Desktop\CursoDotNet\BaltaIO\funcoes_structs\obj\Debug\net8.0\funcoes_structs.AssemblyInfoInputs.cache
+C:\Users\consultorio 05\Desktop\CursoDotNet\BaltaIO\funcoes_structs\obj\Debug\net8.0\funcoes_structs.AssemblyInfo.cs
+C:\Users\consultorio 05\Desktop\CursoDotNet\BaltaIO\funcoes_structs\obj\Debug\net8.0\funcoes_structs.csproj.CoreCompileInputs.cache
+C:\Users\consultorio 05\Desktop\CursoDotNet\BaltaIO\funcoes_structs\bin\Debug\net8.0\funcoes_structs.exe
+C:\Users\consultorio 05\Desktop\CursoDotNet\BaltaIO\funcoes_structs\bin\Debug\net8.0\funcoes_structs.deps.json
+C:\Users\consultorio 05\Desktop\CursoDotNet\BaltaIO\funcoes_structs\bin\Debug\net8.0\funcoes_structs.runtimeconfig.json
+C:\Users\consultorio 05\Desktop\CursoDotNet\BaltaIO\funcoes_structs\bin\Debug\net8.0\funcoes_structs.dll
+C:\Users\consultorio 05\Desktop\CursoDotNet\BaltaIO\funcoes_structs\bin\Debug\net8.0\funcoes_structs.pdb
+C:\Users\consultorio 05\Desktop\CursoDotNet\BaltaIO\funcoes_structs\obj\Debug\net8.0\funcoes_structs.dll
+C:\Users\consultorio 05\Desktop\CursoDotNet\BaltaIO\funcoes_structs\obj\Debug\net8.0\refint\funcoes_structs.dll
+C:\Users\consultorio 05\Desktop\CursoDotNet\BaltaIO\funcoes_structs\obj\Debug\net8.0\funcoes_structs.pdb
+C:\Users\consultorio 05\Desktop\CursoDotNet\BaltaIO\funcoes_structs\obj\Debug\net8.0\funcoes_structs.genruntimeconfig.cache
+C:\Users\consultorio 05\Desktop\CursoDotNet\BaltaIO\funcoes_structs\obj\Debug\net8.0\ref\funcoes_structs.dll

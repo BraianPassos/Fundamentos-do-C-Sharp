@@ -1,0 +1,14 @@
+C:\Users\consultorio 05\Desktop\CursoDotNet\BaltaIO\Enumeradores\bin\Debug\net8.0\Enumeradores.exe
+C:\Users\consultorio 05\Desktop\CursoDotNet\BaltaIO\Enumeradores\bin\Debug\net8.0\Enumeradores.deps.json
+C:\Users\consultorio 05\Desktop\CursoDotNet\BaltaIO\Enumeradores\bin\Debug\net8.0\Enumeradores.runtimeconfig.json
+C:\Users\consultorio 05\Desktop\CursoDotNet\BaltaIO\Enumeradores\bin\Debug\net8.0\Enumeradores.dll
+C:\Users\consultorio 05\Desktop\CursoDotNet\BaltaIO\Enumeradores\bin\Debug\net8.0\Enumeradores.pdb
+C:\Users\consultorio 05\Desktop\CursoDotNet\BaltaIO\Enumeradores\obj\Debug\net8.0\Enumeradores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\consultorio 05\Desktop\CursoDotNet\BaltaIO\Enumeradores\obj\Debug\net8.0\Enumeradores.AssemblyInfoInputs.cache
+C:\Users\consultorio 05\Desktop\CursoDotNet\BaltaIO\Enumeradores\obj\Debug\net8.0\Enumeradores.AssemblyInfo.cs
+C:\Users\consultorio 05\Desktop\CursoDotNet\BaltaIO\Enumeradores\obj\Debug\net8.0\Enumeradores.csproj.CoreCompileInputs.cache
+C:\Users\consultorio 05\Desktop\CursoDotNet\BaltaIO\Enumeradores\obj\Debug\net8.0\Enumeradores.dll
+C:\Users\consultorio 05\Desktop\CursoDotNet\BaltaIO\Enumeradores\obj\Debug\net8.0\refint\Enumeradores.dll
+C:\Users\consultorio 05\Desktop\CursoDotNet\BaltaIO\Enumeradores\obj\Debug\net8.0\Enumeradores.pdb
+C:\Users\consultorio 05\Desktop\CursoDotNet\BaltaIO\Enumeradores\obj\Debug\net8.0\Enumeradores.genruntimeconfig.cache
+C:\Users\consultorio 05\Desktop\CursoDotNet\BaltaIO\Enumeradores\obj\Debug\net8.0\ref\Enumeradores.dll

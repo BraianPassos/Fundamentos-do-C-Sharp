@@ -1,0 +1,14 @@
+C:\Users\consultorio 05\Desktop\CursoDotNet\BaltaIO\tipoValor_tipoReferencia\obj\Debug\net8.0\tipoValor_tipoReferencia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\consultorio 05\Desktop\CursoDotNet\BaltaIO\tipoValor_tipoReferencia\obj\Debug\net8.0\tipoValor_tipoReferencia.AssemblyInfoInputs.cache
+C:\Users\consultorio 05\Desktop\CursoDotNet\BaltaIO\tipoValor_tipoReferencia\obj\Debug\net8.0\tipoValor_tipoReferencia.AssemblyInfo.cs
+C:\Users\consultorio 05\Desktop\CursoDotNet\BaltaIO\tipoValor_tipoReferencia\obj\Debug\net8.0\tipoValor_tipoReferencia.csproj.CoreCompileInputs.cache
+C:\Users\consultorio 05\Desktop\CursoDotNet\BaltaIO\tipoValor_tipoReferencia\bin\Debug\net8.0\tipoValor_tipoReferencia.exe
+C:\Users\consultorio 05\Desktop\CursoDotNet\BaltaIO\tipoValor_tipoReferencia\bin\Debug\net8.0\tipoValor_tipoReferencia.deps.json
+C:\Users\consultorio 05\Desktop\CursoDotNet\BaltaIO\tipoValor_tipoReferencia\bin\Debug\net8.0\tipoValor_tipoReferencia.runtimeconfig.json
+C:\Users\consultorio 05\Desktop\CursoDotNet\BaltaIO\tipoValor_tipoReferencia\bin\Debug\net8.0\tipoValor_tipoReferencia.dll
+C:\Users\consultorio 05\Desktop\CursoDotNet\BaltaIO\tipoValor_tipoReferencia\bin\Debug\net8.0\tipoValor_tipoReferencia.pdb
+C:\Users\consultorio 05\Desktop\CursoDotNet\BaltaIO\tipoValor_tipoReferencia\obj\Debug\net8.0\tipoValor_tipoReferencia.dll
+C:\Users\consultorio 05\Desktop\CursoDotNet\BaltaIO\tipoValor_tipoReferencia\obj\Debug\net8.0\refint\tipoValor_tipoReferencia.dll
+C:\Users\consultorio 05\Desktop\CursoDotNet\BaltaIO\tipoValor_tipoReferencia\obj\Debug\net8.0\tipoValor_tipoReferencia.pdb
+C:\Users\consultorio 05\Desktop\CursoDotNet\BaltaIO\tipoValor_tipoReferencia\obj\Debug\net8.0\tipoValor_tipoReferencia.genruntimeconfig.cache
+C:\Users\consultorio 05\Desktop\CursoDotNet\BaltaIO\tipoValor_tipoReferencia\obj\Debug\net8.0\ref\tipoValor_tipoReferencia.dll
